@@ -1,0 +1,11 @@
+{
+ "name": "MCCN",
+ "website": "http://www.mrciochain.vip",
+ "description": "We intend to make MCCN a high-performance native blockchain solution and realize a secure and low-cost seamless transaction experience between global cryptocurrency consumers and merchants.",
+ "explorer": "https://bscscan.com/address/0x0900117D657BAc967701f8C132FE0243204a2d67",
+ "type": "BEP20",
+ "symbol": "MCCN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0900117D657BAc967701f8C132FE0243204a2d67"
+}
